@@ -1,0 +1,42 @@
+body {
+    background: rgb(39, 119, 46);
+    font: normal 15pt Helvetica;
+    text-align: center;
+}
+
+header {
+    color: white;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 600px;
+    margin: auto;
+}
+
+.lista1 ol p{
+    text-align: center;
+    font-weight: bold;
+}
+
+.lista1 ol li{
+    text-align: left;
+    font: normal 10pt;
+}
+
+.lista2 ul p{
+    text-align: center;
+    font-weight: bold;
+}
+
+.lista2 ul li {
+    text-align: left;
+}
+
+footer {
+    color: white;
+    text-align: center;
+
+}
